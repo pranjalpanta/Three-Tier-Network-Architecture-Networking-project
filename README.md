@@ -259,6 +259,12 @@ Main Enterprise Network
         │
         └── Secure Branch Network
 
+## Author
+
+**Your Pranjal Panta**
+
+Networking Project  
+Designed using Cisco Packet Tracer.
 
 
 
